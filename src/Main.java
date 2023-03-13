@@ -11,17 +11,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		// QUANTO MAIS ESSE VALOR AUMENTAR, MAIS JANELAS SERÃO CRIADAS
 		int numeroMagico = 30;
-		
-		System.out.println(""
-				+ "██    ██ ██ ██████  ██    ██ ███████  ██████ ██  █████  ███    ██ ██ \r\n"
-				+ "██    ██ ██ ██   ██ ██    ██ ██      ██      ██ ██   ██ ████   ██ ██ \r\n"
-				+ "██    ██ ██ ██████  ██    ██ ███████ ██      ██ ███████ ██ ██  ██ ██ \r\n"
-				+ " ██  ██  ██ ██   ██ ██    ██      ██ ██      ██ ██   ██ ██  ██ ██ ██ \r\n"
-				+ "  ████   ██ ██   ██  ██████  ███████  ██████ ██ ██   ██ ██   ████ ██ \r\n"
-				+ "                                                                     \r\n"
-				+ "                                                                     ");
 		
 		int i = 0;
 		int x = 0;
